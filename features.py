@@ -66,7 +66,7 @@ def ttspeech(text: str, language: str) -> None:
     """
 
     # Creating the speech using the gTTS library
-    speech = gTTS(text=text, lang=LANGCODES[language.lower()], slow=False,speed=1.5)
+    speech = gTTS(text=text, lang=LANGCODES[language.lower()], slow=False)
 
     # Defining the file name and path to save the speech as mp3 file
     file_name = "savedaudiofile.mp3"
