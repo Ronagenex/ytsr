@@ -10,5 +10,5 @@ whisper==1.1.10
 youtube_transcript_api==0.4.1
 jiwer==3.0.1
 ffmpeg==1.4
-torch==2.0.0+cu117
+torch==2.0.0
 git+https://github.com/openai/whisper.git
