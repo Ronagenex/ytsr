@@ -9,6 +9,6 @@ streamlit_player==0.1.5
 whisper==1.1.10
 youtube_transcript_api==0.4.1
 jiwer==3.0.1
-ffmpeg==1.4
+ffmpeg-python
 torch==2.0.0
 git+https://github.com/openai/whisper.git
