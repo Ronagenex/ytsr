@@ -1,0 +1,10 @@
+googletrans==3.1.0a0
+gTTS==2.3.1
+openai_whisper==20230314
+Pillow==9.5.0
+pytube==12.1.2
+streamlit==1.20.0
+streamlit_option_menu==0.3.2
+streamlit_player==0.1.5
+whisper==1.1.10
+youtube_transcript_api==0.4.1
