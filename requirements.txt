@@ -8,3 +8,4 @@ streamlit_option_menu==0.3.2
 streamlit_player==0.1.5
 whisper==1.1.10
 youtube_transcript_api==0.4.1
+jiwer==3.0.1
